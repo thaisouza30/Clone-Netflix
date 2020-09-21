@@ -2,6 +2,8 @@
 
 Recriando Interface da Netflix
 
+<img src="https://github.com/thaisouza30/Clone-Netflix/blob/master/print-full.png"/>
+
 ## Projeto do Bootcamp HTML WEB DEVELOPER Digital Innovation One 🚀🚀🚀 
 
 ## 🛠️ Construído com
