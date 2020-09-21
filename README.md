@@ -2,7 +2,7 @@
 
 Recriando Interface da Netflix
 
-## Projeto do Bootcamp HTML WEB DEVELOPER da Digital Innovation One 🚀🚀🚀 
+## Projeto do Bootcamp HTML WEB DEVELOPER Digital Innovation One 🚀🚀🚀 
 
 ## 🛠️ Construído com
 
